@@ -1,0 +1,351 @@
+body {
+                
+                    background: linear-gradient(to right, #ffffff,#808181);
+                    background-size: 100% 1.2em;
+                    height: 2000px;
+                    width: 101%;
+                    
+            }
+    
+    
+            #title {
+                
+                    height: 208px;
+                    width: 100%;
+                    margin-right: -5px;
+                    position: absolute;
+                    left: 700px;
+                    top: 100px;
+            }
+            
+            h1{
+                
+                    font-family: 'Caveat', cursive;
+                    font-size: 50px;
+                    line-height: 50px;
+                    color:darksalmon;
+                    -webkit-text-stroke-width:0.2px;
+                    -webkit-text-stroke-color:cadetblue;
+                    position: absolute;
+                    top: 15px;
+                    left: 10px;
+            }
+
+            #html {
+    
+                    position: absolute;
+                    top: 250px;
+                    left: 10px;
+                    background-color: blanchedalmond;
+                    border: none;
+                    color: cadetblue;
+                    font-family: 'Caveat', cursive;
+                
+            }
+
+            #css {
+    
+                    position: absolute;
+                    top: 290px;
+                    left: 5px;
+                    background-color: blanchedalmond;
+                    border: none;
+                    color: cadetblue;
+                    font-family: 'Caveat', cursive;
+                
+            }
+
+            #js {
+    
+                    position: absolute;
+                    top: 328px;
+                    left: 0px;
+                    margin-right: 1px;
+                    background-color: blanchedalmond;
+                    border: none;
+                    color: cadetblue;
+                    font-family: 'Caveat', cursive;
+                
+            }
+            
+            #personalinfo {
+                
+                    position: absolute;
+                    top: 300px;
+                    left: 145px;
+            }
+            
+            #personalinfo p{
+                
+                            font-family: 'Shadows Into Light Two', cursive;
+            }
+            
+            
+            
+            
+            h2 {
+                
+                    font-family: 'Bad Script', cursive;
+                    font-size: 30px;
+                    line-height: 30px;
+                    font-weight:bold;
+                    color: cadetblue;
+                    
+            }
+            
+            #experience {
+                
+                    position: absolute;
+                    top: 500px;
+                    left: 150px;all: 
+            }
+            
+            #experience dl1 {
+                            
+                                width: 500px;
+                                position: absolute;
+            }
+            
+            #education {
+                
+                    position: absolute;
+                    top: 500px;
+                    left: 150px;all; 
+                    width: 500px;
+            }
+            
+            #skills {
+                
+                    position: absolute;
+                    top: 450px;
+                    left: 150px; all;
+                    font-family: 'Shadows Into Light Two', cursive;
+                    width: 500px;
+            }
+            
+            #m p {
+                    
+                    position: absolute;
+                    left: 150px;
+                    top: 100px;
+            }
+            
+            
+            #p p {
+                
+                    position: absolute;
+                    left: 150px;
+                    top: 120px;
+            }
+        
+            
+            #h p {
+                
+                    position: absolute;
+                    left: 150px;
+                    top: 150px;
+                  
+            }
+            
+            #photo {
+                
+                        width: 350px;
+                        height: 400px;
+                        position: absolute;
+                        top: -90px;
+                        left: 850px;
+                        border:5px solid darkslategray;
+                        border-radius: 10px;
+            }
+
+
+            .container {
+    
+                        position: relative;
+                        top: 0px;
+                        left: 0px;
+                        width: 50%;
+                    
+            }
+
+            .container:hover #photo {
+                
+                        opacity: 0.3;
+            }
+
+
+            .container:hover .middle {
+                
+                        opacity: 1;
+            }
+
+            
+            .experience {
+                
+                        font-family: 'Shadows Into Light Two', cursive;
+                        width: 500px;
+                        position: absolute;
+                        top: 200px;
+                        left: 30px;all;
+            }
+            
+            .experience p {
+                
+                            font-size: 25px;
+                            width: 300px;
+                            position: absolute;
+                            top:-22px;
+                            left: -20px;
+            }
+            
+            .experience dt1 {
+                
+                            color: cadetblue;
+                            font-weight: bold;
+                            position: absolute;
+                            top: 76px;
+            }
+            
+            .experience dd1 {
+                
+                            position: absolute;
+                            top: 96px;
+                            left: 50px;
+                          
+            }
+            
+            #education {
+                
+                            position: absolute;
+                            top: 200px;
+                            left: 10px;all;
+
+                            
+            }
+            
+            #education label {
+                    
+                            font-size: 22px;
+                            text-align: center;
+                            width: 300px;
+                            font-weight: bold;
+                            position: absolute;
+                            top: 3px;
+                            left: 0px;
+            }
+            
+            #education dl {
+                
+                            position: absolute;
+                            top: 58px;
+                            width: 500px;
+            }
+           
+            #education dt1 {
+                
+                            position: absolute;
+                            top: 0px;
+                            color: cadetblue;
+                            font-weight: bold;
+            }
+            
+            #education dd1 {
+                
+                            position: absolute;
+                            top: 20px;
+                            left: 50px;
+            }
+            
+            #education dt2 {
+                
+                            position: absolute;
+                            top: 58px;
+                            color: cadetblue;
+                            font-weight: bold;
+            }
+            
+            #education dd2 {
+                
+                            position: absolute;
+                            top: 78px;
+                            left: 50px;
+                            width: 600px;
+            }
+            
+            #skills dl {
+                
+                            font-size: 25px;
+                            font-weight: bold;
+                            position: absolute;
+                            top: -22px;
+                            left: 10px;
+            }
+            
+            #skills dt1 {
+                
+                            position: absolute;
+                            top: 74px;
+                            font-weight: bold;
+                            color: cadetblue;
+            }
+            
+            #skills dd1 {
+                
+                            position: absolute;
+                            top: 75px;
+                            left: 150px;
+            }
+            
+            #skills dt2 {
+                
+                            position: absolute;
+                            top: 113px;
+                            font-weight: bold;
+                            color: cadetblue;
+                
+            }
+            
+            #skills dd2 {
+                
+                            position: absolute;
+                            top: 120px;
+                            left: 50px;
+            }
+            
+            #skills table {
+                
+                            position: absolute;
+                            top: 30px;
+                            border:5px solid darkslategray;
+                            border-radius: 5px;
+                            background-color: aliceblue;
+                            width: 500px;
+                            height: 155px;
+            }
+            
+            #skills th, td {
+                        
+                            border: 1px solid darkslategray;
+                                    
+            }
+            
+            #comp {
+                    
+                            position: absolute;
+                            top: 485px;
+                            left: 50px;
+                            margin-bottom: 50px;
+            }
+    
+            #str {
+                
+                            width: 600px;
+                            padding: 20px;
+                            height: auto;
+                            font-family: sans-serif;
+                            font-size: 40px;
+                            margin: 20px auto;
+                            color: #fff;
+                            font-weight: bold;
+                            background-color:cadetblue;
+            }
